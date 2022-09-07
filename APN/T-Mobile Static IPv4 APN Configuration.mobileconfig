@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>Github User: northportio assumes no responsibility whatsoever for tne results of installing this profile on your device. You are installing this profile with no warranty and acknowledge the risks of installing a profile from an untrusted source.</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>APNs</key>
+			<array>
+				<dict>
+					<key>AllowedProtocolMask</key>
+					<integer>3</integer>
+					<key>AllowedProtocolMaskInRoaming</key>
+					<integer>3</integer>
+					<key>AuthenticationType</key>
+					<string>PAP</string>
+					<key>DefaultProtocolMask</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>b2b.static</string>
+				</dict>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures cellular data settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Cellular</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.cellular.CA35A837-14AB-4205-8BBD-44DA05EF227F</string>
+			<key>PayloadType</key>
+			<string>com.apple.cellular</string>
+			<key>PayloadUUID</key>
+			<string>CA35A837-14AB-4205-8BBD-44DA05EF227F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This iOS profile contains the APN configuration for getting a static IPv4 address on an iOS Device. Please do not just install profiles randomly as some profiles on the internet may not have the option to be removed with or without a pin and may severely inpair the use of your device requiring a full wipe of your device. If you are receiving this profile fom any other place than https://raw.githubusercontent.com/northportio/T-Mobile-Static-IPv4/main/APN/T-Mobile%20Static%20IPv4%20APN%20Configuration.mobileconfig, the please DO NOT INSTALL!</string>
+	<key>PayloadDisplayName</key>
+	<string>T-Mobile Static IPv4 APN Configuration</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.northportio.t-mobile.staticipv4</string>
+	<key>PayloadOrganization</key>
+	<string>Northportio</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>D0DAF790-1B07-4E37-8B59-16AAF9D3C386</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

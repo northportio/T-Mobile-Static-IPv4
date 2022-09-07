@@ -40,7 +40,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This iOS profile contains the APN configuration for getting a static IPv4 address on an iOS Device. Please do not just install profiles randomly as some profiles on the internet may not have the option to be removed with or without a pin and may severely inpair the use of your device requiring a full wipe of your device. If you are receiving this profile fom any other place than URL, the please DO NOT INSTALL!</string>
+	<string>This iOS profile contains the APN configuration for getting a static IPv4 address on an iOS Device. Please do not just install profiles randomly as some profiles on the internet may not have the option to be removed with or without a pin and may severely inpair the use of your device requiring a full wipe of your device. If you are receiving this profile fom any other place than https://github.com/northportio/T-Mobile-Static-IPv4/blob/main/APN/T-Mobile%20Static%20IPv4%20APN%20Configuration.mobileconfig, the please DO NOT INSTALL!</string>
 	<key>PayloadDisplayName</key>
 	<string>T-Mobile Static IPv4 APN Configuration </string>
 	<key>PayloadIdentifier</key>

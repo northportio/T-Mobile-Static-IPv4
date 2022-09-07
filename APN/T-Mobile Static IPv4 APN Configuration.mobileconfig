@@ -30,17 +30,17 @@
 			<key>PayloadDisplayName</key>
 			<string>Cellular</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.cellular.CA35A837-14AB-4205-8BBD-44DA05EF227F</string>
+			<string>com.apple.cellular.C748CB01-15CE-4BA1-9462-21720EE62B83</string>
 			<key>PayloadType</key>
 			<string>com.apple.cellular</string>
 			<key>PayloadUUID</key>
-			<string>CA35A837-14AB-4205-8BBD-44DA05EF227F</string>
+			<string>C748CB01-15CE-4BA1-9462-21720EE62B83</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This iOS profile contains the APN configuration for getting a static IPv4 address on an iOS Device. Please do not just install profiles randomly as some profiles on the internet may not have the option to be removed with or without a pin and may severely inpair the use of your device requiring a full wipe of your device. If you are receiving this profile fom any other place than https://raw.githubusercontent.com/northportio/T-Mobile-Static-IPv4/main/APN/T-Mobile%20Static%20IPv4%20APN%20Configuration.mobileconfig, the please DO NOT INSTALL!</string>
+	<string>This iOS profile contains the APN configuration for getting a static IPv4 address on an iOS Device. Please do not just install profiles randomly as some profiles on the internet may not have the option to be removed with or without a pin and may severely inpair the use of your device requiring a full wipe of your device. If you are receiving this profile fom any other place than https://github.com/northportio/T-Mobile-Static-IPv4/releases/tag/latest, the please DO NOT INSTALL!</string>
 	<key>PayloadDisplayName</key>
 	<string>T-Mobile Static IPv4 APN Configuration</string>
 	<key>PayloadIdentifier</key>
@@ -52,7 +52,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>D0DAF790-1B07-4E37-8B59-16AAF9D3C386</string>
+	<string>BF3C3F9B-79A2-4EC7-A873-6D9DEC8E3D65</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

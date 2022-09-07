@@ -18,7 +18,7 @@ Following these steps will NOT get you a static IP!***
  4. Add the APN information
  - The original APN for personal and default business lines is `fast.t-mobile.com`
  - The APN to get a Static IPv4 address is `b2b.static`
- - On iOS, you don't normally see the option to input an APN so you will have to create a profile using Apple Configurator 2 with the configuration below or install one from [here]()
+ - On iOS, you don't normally see the option to input an APN so you will have to create a profile using Apple Configurator 2 with the configuration below or install one from [here](https://github.com/northportio/T-Mobile-Static-IPv4/blob/main/APN/T-Mobile%20Static%20IPv4%20APN%20Configuration.mobileconfig)
  
  ![APN Config](https://github.com/northportio/T-Mobile-Static-IPv4/blob/main/APN/apnconfig.png)
  

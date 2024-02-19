@@ -23,6 +23,6 @@ Following these steps will NOT get you a static IP!***
  ![APN Config](https://github.com/northportio/T-Mobile-Static-IPv4/blob/main/APN/apnconfig.png)
  
  5. Check your IP
- - You can google `what is my ip` or go to a reliable site such as [ifconfig.co](https://ifconfig.co) and your new IPv4 address should be displayed
+ - You can google `what is my ip` or go to a reliable site such as [ifconfig.tv](https://ifconfig.tv) and your new IPv4 address should be displayed
  
  That's it
